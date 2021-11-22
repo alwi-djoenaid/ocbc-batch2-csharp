@@ -15,6 +15,8 @@ namespace Sesi02
 
             val2 += 6;
             Console.WriteLine($"Nilai 2 = {val2}");
+
+            Console.Read();
         }
     }
 }
