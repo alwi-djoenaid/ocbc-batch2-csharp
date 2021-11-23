@@ -17,6 +17,8 @@ namespace Sesi04
                 Console.WriteLine();
             }
 
+            Console.WriteLine("\n");
+
             // Demo inisialisasi array multidimensi
             int [,]data = {
                 {1, 1},
@@ -32,7 +34,7 @@ namespace Sesi04
             };
 
             for(int k=0; k<10; k++){
-                for(m=0; m<2; m++){
+                for(int m=0; m<2; m++){
                     Console.Write(data[k,m] + " ");
                 }
                 Console.WriteLine();
