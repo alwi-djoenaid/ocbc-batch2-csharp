@@ -2,7 +2,7 @@
 
 namespace Assignment01
 {
-    class Program
+    class Assignment01
     {
         static void Main(string[] args)
         {
@@ -33,6 +33,7 @@ namespace Assignment01
 
                 switch(menu){
                     case 1: {
+                        Console.WriteLine($"Anda memilih soal nomor {menu}");
                         char ch='A';      
                         int i, j, k, m, input;
 
@@ -40,7 +41,6 @@ namespace Assignment01
                             Console.Write("Enter the range = ");
                             input = int.Parse(Console.ReadLine());
                         }while(input < 1 || input > 26);
-                        
 
                         for(i=1; i<=input; i++)      
                         {      
@@ -69,6 +69,8 @@ namespace Assignment01
                         break;
                     }
                     case 2: {
+                        Console.WriteLine($"Anda memilih soal nomor {menu}");
+
                         int input;
                         int num='1';      
                         int i, j, k, m;
@@ -103,6 +105,8 @@ namespace Assignment01
                         break;
                     }
                     case 3: {
+                        Console.WriteLine($"Anda memilih soal nomor {menu}");
+
                         int num;
 
                         Console.Write("Enter any number : ");
@@ -121,6 +125,8 @@ namespace Assignment01
                         break;
                     }
                     case 4: {
+                        Console.WriteLine($"Anda memilih soal nomor {menu}");
+
                         string num;
 
                         Console.Write("Enter a number: ");
@@ -139,6 +145,8 @@ namespace Assignment01
                         break;
                     }
                     case 5: {
+                        Console.WriteLine($"Anda memilih soal nomor {menu}");
+
                         string num;
                         string str = "";
 
@@ -185,6 +193,8 @@ namespace Assignment01
                         break;
                     }
                     case 6: {
+                        Console.WriteLine($"Anda memilih soal nomor {menu}");
+                        
                         string word;
                         bool isPalindrome = true;
 
