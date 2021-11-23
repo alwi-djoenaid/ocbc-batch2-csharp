@@ -9,25 +9,21 @@ namespace Loop
             int a = 10;
             int j = 0;
 
-            // For loop
+            // For loop logika 6
             for(int i=a; i<20; i++){
                 Console.WriteLine(i);
             }
 
-            // While loop
+            // While loop logika 7
             while(a < 20){
                 Console.WriteLine(a++);
             }
 
-            // Do-While loop
+            // Do-While loop logika 8
             do{
                 Console.WriteLine("i = {0}", j);
                 j++;
-
-                if(j > 5){
-                    break;
-                }
-            }while(j < 10);
+            }while(j < 5);
         }
     }
 }
