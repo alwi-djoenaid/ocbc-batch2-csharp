@@ -2,7 +2,7 @@
 
 namespace IfElse
 {
-    class Program
+    class Logika3
     {
         static void Main(string[] args)
         {

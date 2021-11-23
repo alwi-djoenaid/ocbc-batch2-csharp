@@ -2,7 +2,7 @@
 
 namespace SwitchCase
 {
-    class Program
+    class Logika5
     {
         static void Main(string[] args)
         {
