@@ -1,0 +1,16 @@
+C:\Users\User\OCBC\Sesi05\lat01\obj\Debug\net5.0\lat01.csproj.AssemblyReference.cache
+C:\Users\User\OCBC\Sesi05\lat01\obj\Debug\net5.0\lat01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OCBC\Sesi05\lat01\obj\Debug\net5.0\lat01.AssemblyInfoInputs.cache
+C:\Users\User\OCBC\Sesi05\lat01\obj\Debug\net5.0\lat01.AssemblyInfo.cs
+C:\Users\User\OCBC\Sesi05\lat01\obj\Debug\net5.0\lat01.csproj.CoreCompileInputs.cache
+C:\Users\User\OCBC\Sesi05\lat01\bin\Debug\net5.0\lat01.exe
+C:\Users\User\OCBC\Sesi05\lat01\bin\Debug\net5.0\lat01.deps.json
+C:\Users\User\OCBC\Sesi05\lat01\bin\Debug\net5.0\lat01.runtimeconfig.json
+C:\Users\User\OCBC\Sesi05\lat01\bin\Debug\net5.0\lat01.runtimeconfig.dev.json
+C:\Users\User\OCBC\Sesi05\lat01\bin\Debug\net5.0\lat01.dll
+C:\Users\User\OCBC\Sesi05\lat01\bin\Debug\net5.0\ref\lat01.dll
+C:\Users\User\OCBC\Sesi05\lat01\bin\Debug\net5.0\lat01.pdb
+C:\Users\User\OCBC\Sesi05\lat01\obj\Debug\net5.0\lat01.dll
+C:\Users\User\OCBC\Sesi05\lat01\obj\Debug\net5.0\ref\lat01.dll
+C:\Users\User\OCBC\Sesi05\lat01\obj\Debug\net5.0\lat01.pdb
+C:\Users\User\OCBC\Sesi05\lat01\obj\Debug\net5.0\lat01.genruntimeconfig.cache

@@ -2,7 +2,7 @@ using System;
 
 namespace IfElse
 {
-    class Logika2
+    class Logika4
     {
         static void Main(string[] args)
         {

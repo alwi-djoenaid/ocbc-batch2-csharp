@@ -1,0 +1,16 @@
+C:\Users\User\OCBC\Sesi05\lat02\obj\Debug\net5.0\lat02.csproj.AssemblyReference.cache
+C:\Users\User\OCBC\Sesi05\lat02\obj\Debug\net5.0\lat02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OCBC\Sesi05\lat02\obj\Debug\net5.0\lat02.AssemblyInfoInputs.cache
+C:\Users\User\OCBC\Sesi05\lat02\obj\Debug\net5.0\lat02.AssemblyInfo.cs
+C:\Users\User\OCBC\Sesi05\lat02\obj\Debug\net5.0\lat02.csproj.CoreCompileInputs.cache
+C:\Users\User\OCBC\Sesi05\lat02\bin\Debug\net5.0\lat02.exe
+C:\Users\User\OCBC\Sesi05\lat02\bin\Debug\net5.0\lat02.deps.json
+C:\Users\User\OCBC\Sesi05\lat02\bin\Debug\net5.0\lat02.runtimeconfig.json
+C:\Users\User\OCBC\Sesi05\lat02\bin\Debug\net5.0\lat02.runtimeconfig.dev.json
+C:\Users\User\OCBC\Sesi05\lat02\bin\Debug\net5.0\lat02.dll
+C:\Users\User\OCBC\Sesi05\lat02\bin\Debug\net5.0\ref\lat02.dll
+C:\Users\User\OCBC\Sesi05\lat02\bin\Debug\net5.0\lat02.pdb
+C:\Users\User\OCBC\Sesi05\lat02\obj\Debug\net5.0\lat02.dll
+C:\Users\User\OCBC\Sesi05\lat02\obj\Debug\net5.0\ref\lat02.dll
+C:\Users\User\OCBC\Sesi05\lat02\obj\Debug\net5.0\lat02.pdb
+C:\Users\User\OCBC\Sesi05\lat02\obj\Debug\net5.0\lat02.genruntimeconfig.cache

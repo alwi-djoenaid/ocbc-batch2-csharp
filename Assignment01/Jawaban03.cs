@@ -4,7 +4,7 @@ namespace Assignment01
 {
     class Nomor3
     {
-        static calculateFactorial()
+        static void calculateFactorial()
         {
             int num;
 

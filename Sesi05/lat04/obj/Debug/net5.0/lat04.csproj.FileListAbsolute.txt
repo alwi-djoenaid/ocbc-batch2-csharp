@@ -1,0 +1,16 @@
+C:\Users\User\OCBC\Sesi05\lat04\bin\Debug\net5.0\lat04.exe
+C:\Users\User\OCBC\Sesi05\lat04\bin\Debug\net5.0\lat04.deps.json
+C:\Users\User\OCBC\Sesi05\lat04\bin\Debug\net5.0\lat04.runtimeconfig.json
+C:\Users\User\OCBC\Sesi05\lat04\bin\Debug\net5.0\lat04.runtimeconfig.dev.json
+C:\Users\User\OCBC\Sesi05\lat04\bin\Debug\net5.0\lat04.dll
+C:\Users\User\OCBC\Sesi05\lat04\bin\Debug\net5.0\ref\lat04.dll
+C:\Users\User\OCBC\Sesi05\lat04\bin\Debug\net5.0\lat04.pdb
+C:\Users\User\OCBC\Sesi05\lat04\obj\Debug\net5.0\lat04.csproj.AssemblyReference.cache
+C:\Users\User\OCBC\Sesi05\lat04\obj\Debug\net5.0\lat04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OCBC\Sesi05\lat04\obj\Debug\net5.0\lat04.AssemblyInfoInputs.cache
+C:\Users\User\OCBC\Sesi05\lat04\obj\Debug\net5.0\lat04.AssemblyInfo.cs
+C:\Users\User\OCBC\Sesi05\lat04\obj\Debug\net5.0\lat04.csproj.CoreCompileInputs.cache
+C:\Users\User\OCBC\Sesi05\lat04\obj\Debug\net5.0\lat04.dll
+C:\Users\User\OCBC\Sesi05\lat04\obj\Debug\net5.0\ref\lat04.dll
+C:\Users\User\OCBC\Sesi05\lat04\obj\Debug\net5.0\lat04.pdb
+C:\Users\User\OCBC\Sesi05\lat04\obj\Debug\net5.0\lat04.genruntimeconfig.cache
