@@ -1,4 +1,4 @@
-Nama : Alwi Azra Akbar Djunaid\n
+Nama : Alwi Azra Akbar Djunaid
 Kode Peserta : FSDO002ONL003
 
 ## Cara Menggunakan API pada Sesi 9
