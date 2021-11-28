@@ -5,7 +5,7 @@ Kode Peserta : FSDO002ONL003
 
 1. Buka file webApiTest.sln pada folder Tugas09
 2. Jalankan database menggunakan XAMPP, nyalakan Apache dan MySql
-3. Unduh aplikasi Postman kemudian gunakan collection https://www.getpostman.com/collections/5383458135dd504613e9
+3. Unduh aplikasi Postman kemudian gunakan collection https://www.getpostman.com/collections/c5c6ff91388b7376a5a3
 4. Get all employee
     ![image](https://user-images.githubusercontent.com/55915016/143777428-ecaa6dd8-2a38-4117-b784-3f59212e4ac3.png)
 5. Get employee by ID
