@@ -1,0 +1,97 @@
+{
+	"info": {
+		"_postman_id": "325223ef-4ec2-4b2f-b4cf-fab8858652a2",
+		"name": "Movies",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get all movies",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44386/api/Movie",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44386",
+					"path": [
+						"api",
+						"Movie"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get movie by ID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44386/api/Movie/2",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44386",
+					"path": [
+						"api",
+						"Movie",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Insert movie",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 13,\r\n  \"name\": \"Apex Legends\",\r\n  \"genre\": \"Action\",\r\n  \"duration\": 115,\r\n  \"releaseDate\": \"2021-11-28T14:46:40.102Z\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44386/api/Movie",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44386",
+					"path": [
+						"api",
+						"Movie"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update movie",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
