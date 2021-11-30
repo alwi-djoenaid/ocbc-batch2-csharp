@@ -11,6 +11,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using UnitTest_Mock.Models;
+using Microsoft.EntityFrameworkCore;
+using UnitTest_Mock.Services;
+using UnitTest_Mock.Controllers;
 
 namespace UnitTest_Mock
 {
@@ -32,6 +36,15 @@ namespace UnitTest_Mock
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "UnitTest_Mock", Version = "v1" });
             });
+
+            #region Connection String
+            services.AddDbContext<ApiDbContext>(options =>
+                options.UseSqlite(Configuration.GetConnectionString("myconn"))
+            );
+            #endregion
+
+            services.AddScoped<IEmployeeService, EmployeeService>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
