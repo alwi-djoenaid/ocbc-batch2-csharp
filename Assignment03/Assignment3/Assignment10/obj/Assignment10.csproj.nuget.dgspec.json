@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Assignment10\\Assignment10\\Assignment10.csproj": {}
+    "C:\\Users\\User\\OCBC\\Assignment03\\Assignment3\\Assignment10\\Assignment10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Assignment10\\Assignment10\\Assignment10.csproj": {
+    "C:\\Users\\User\\OCBC\\Assignment03\\Assignment3\\Assignment10\\Assignment10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Assignment10\\Assignment10\\Assignment10.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OCBC\\Assignment03\\Assignment3\\Assignment10\\Assignment10.csproj",
         "projectName": "Assignment10",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Assignment10\\Assignment10\\Assignment10.csproj",
+        "projectPath": "C:\\Users\\User\\OCBC\\Assignment03\\Assignment3\\Assignment10\\Assignment10.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Assignment10\\Assignment10\\obj\\",
+        "outputPath": "C:\\Users\\User\\OCBC\\Assignment03\\Assignment3\\Assignment10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
