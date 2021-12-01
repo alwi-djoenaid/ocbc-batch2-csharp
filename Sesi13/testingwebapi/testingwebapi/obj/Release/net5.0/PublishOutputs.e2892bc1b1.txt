@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\testingwebapi\testingwebapi\bin\Release\net5.0\publish\testingwebapi.exe
+C:\Users\User\source\repos\testingwebapi\testingwebapi\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\User\source\repos\testingwebapi\testingwebapi\bin\Release\net5.0\publish\appsettings.json
+C:\Users\User\source\repos\testingwebapi\testingwebapi\bin\Release\net5.0\publish\testingwebapi.dll
+C:\Users\User\source\repos\testingwebapi\testingwebapi\bin\Release\net5.0\publish\testingwebapi.deps.json
+C:\Users\User\source\repos\testingwebapi\testingwebapi\bin\Release\net5.0\publish\testingwebapi.runtimeconfig.json
+C:\Users\User\source\repos\testingwebapi\testingwebapi\bin\Release\net5.0\publish\testingwebapi.pdb
+C:\Users\User\source\repos\testingwebapi\testingwebapi\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\testingwebapi\testingwebapi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\testingwebapi\testingwebapi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\testingwebapi\testingwebapi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
